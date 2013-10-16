@@ -1,0 +1,1 @@
+pl.com.setvar.jexmectryout.plugin.Plugin
